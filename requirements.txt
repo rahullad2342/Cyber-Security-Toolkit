@@ -1,0 +1,6 @@
+bcrypt
+requests
+cryptography
+pycryptodome
+pynput
+schedule
